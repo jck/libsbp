@@ -1,5 +1,5 @@
 boto==2.42.0
-construct==2.5.2
+construct==2.8.12
 httpretty
 requests>=2.8.1
 futures==2.2.0
